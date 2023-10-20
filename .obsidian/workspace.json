@@ -146,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c387d673f2d182e",
+  "active": "2b706b26856b8181",
   "lastOpenFiles": [
+    "Exercices/Exercices - Les types.md",
+    "Exercices",
+    "Cours/5. Les constructeurs de types.md",
     "Cours/4. Les booléens.md",
     "Cours/3. Les nombres.md",
     "Cours/2. Les chaînes de caractères.md",
