@@ -25,6 +25,32 @@ print()
 print()
 ```
 
-<br>
 
-[Correction](Corrections/Correction%20-%20Les%20types.md)
+[Correction]
+
+
+```python
+#le commentaire c'est #
+#pour ouvrir le bloc on fait```python (ici on met le code )```
+
+apostrophe = "Bonjour l'ami"
+melanger_les_pinceaux = "On m'appelle l'indécis"
+print (apostrophe)
+print(melanger_les_pinceaux)
+chaine="Bienvenue a python"
+nombre_entier= 2
+nombre_decimal= 3.14
+boolean= True 
+a= int(boolean)
+print(a)
+boolean= False
+b= int(boolean)
+print(b)
+h=print(issubclass(bool,int))
+c=str(nombre_entier)
+print(c)
+d= type(nombre_entier)
+print(d)
+```
+
+

@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Exercices/Exercices - Les types.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5e9c73629604dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercices/Exercices - Les types.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "febee8ad2c821737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercices/Exercices - Les types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00574e456eff446b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercices/Exercices - Les types.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Exercices/Exercices - Les types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Exercices/Exercices - Les types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Exercices/Exercices - Les types.md"
               }
             }
           }
@@ -146,9 +183,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2b706b26856b8181",
+  "active": "00574e456eff446b",
   "lastOpenFiles": [
+    "Exercices/correction",
+    "Sin título 2.md",
     "Exercices/Exercices - Les types.md",
+    "Sin título 1.md",
+    "Sin título",
+    "Sin título.md",
+    "README.md",
     "Exercices",
     "Cours/5. Les constructeurs de types.md",
     "Cours/4. Les booléens.md",
