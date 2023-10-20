@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "b9c4e8d805627c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c732617cef5e7d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c387d673f2d182e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be0b839eb6d40a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f3e1ca192a068e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b706b26856b8181",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a5cd37dcb27e947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1d820bd8c890222",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "477cabb8fe05c479",
+    "type": "split",
+    "children": [
+      {
+        "id": "f61d0112b2de92c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ec0e742d53c2f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30a0c947edf750e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a2d067c8f7b86ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "704328607906f190",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6c387d673f2d182e",
+  "lastOpenFiles": [
+    "Cours/4. Les booléens.md",
+    "Cours/3. Les nombres.md",
+    "Cours/2. Les chaînes de caractères.md",
+    "Cours/1. Installation du poste de travail.md",
+    "Cours/0. Introduction à python.md",
+    "Annexes/Documentation python.md",
+    "Cours/22. Les environnements virtuels.md"
+  ]
+}
